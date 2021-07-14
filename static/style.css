@@ -1,0 +1,55 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    color: white;
+    font-family: 'Montserrat',sans-serif;
+}
+.text-black{
+    color: black;
+}
+.container-fluid{
+    padding: 0;
+}
+.brand{
+    margin-left: 5rem ;
+    font-style: cursive;
+}
+.item
+{
+    margin: 0 4px;
+}
+
+h3{
+    display: inline-block;
+    margin-bottom: 0px;
+    padding-left: 2rem;
+}
+
+/* Main Section */
+
+
+.main-text{
+    margin-bottom: 1rem;
+}
+.labelsInput{
+    
+    width: 60%;
+    margin: auto;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}
+
+
+/* Footer */
+
+
+#footer{
+    background-color: black;
+}
+
+.footer-icon{
+    padding: 0.5rem;
+}
+.footer-icon i{
+    padding: 0.5rem ;
+}
