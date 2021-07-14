@@ -6,4 +6,5 @@ scikit_learn==0.24.2
 werkzeug==0.15.5
 scipy>=0.15.1
 flasgger==0.9.4
+pickleshare==0.7.5
 streamlit
