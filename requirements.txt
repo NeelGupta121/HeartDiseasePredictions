@@ -8,10 +8,8 @@ itsdangerous==1.1.0
 Jinja2==2.11.2
 json5==0.9.5
 jupyter==1.0.0
-matplotlib @ file:///C:/ci/matplotlib-base_1603355780617/work
-notebook @ file:///C:/ci/notebook_1601501643625/work
-numpy @ file:///C:/ci/numpy_and_numpy_base_1603466732592/work
-pandas @ file:///C:/ci/pandas_1602083338010/work
+numpy>=1.9.2
+pandas>=0.19
 py==1.10.0
 sklearn==0.0
 
